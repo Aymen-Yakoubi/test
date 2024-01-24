@@ -1,3 +1,3 @@
-console.log("====================================");
-console.log("hello");
-console.log("====================================");
+function test (){
+    return 'hi C7'
+}
